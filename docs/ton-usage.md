@@ -11,7 +11,7 @@ sidebar_position: 2
         -   #### 点击插件搜索栏旁边的 ![setting](./img//setting.png)设置按钮, 并点击设置
         -   #### 找到版本号的位置 ![version](./img/version.png), 使用鼠标左键快速点击 5 次, 让其进入开发者模式
         -   #### 弹出的开发者选项中 ![developer](./img/developer.png), 选择 `Testnet`即可
-    -   #### [TonWallet]() 切换测试网步骤
+    -   #### [TonWallet](https://chrome.google.com/webstore/detail/ton-wallet/nphplpgoakhhjchkkhmiggakijnkhfnd) 切换测试网步骤
         -   #### 点击状态栏旁边的 ![ton_wallet_setting](./img/ton_wallet_setting.jpg) 设置按钮, 并点击 About
         -   #### 找到版本号的位置 ![ton_wallet_version](./img/ton_wallet_version.jpg), 按住键盘`Shift`, 并点击鼠标左键点击版本号
         -   #### 弹出 ![ton_wallet_confirm](./img/ton_wallet_confirm.jpg), 并点击 `I'M SURE`即可切换到测试网
